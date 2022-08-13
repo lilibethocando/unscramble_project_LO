@@ -1,5 +1,8 @@
-# Unscramble Project 
-# About this project
+# Udacity's Data Structures & Algorithms with Python - Nanodegree program - project 1
+## Unscramble Project 
+
+### About this project:
+
 In this project we used the csv files for performing 5 tasks provided by Udacity for testing python knowledge. 
 
 ## Task0:
